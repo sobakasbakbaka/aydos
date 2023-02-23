@@ -1,6 +1,6 @@
 import styled from '@emotion/styled'
 // import {css} from '@emotion/css'
 
-export const Button = styled.button`
+export const StyledButton = styled.button`
     color: red;
 `
